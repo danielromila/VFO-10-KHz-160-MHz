@@ -1,5 +1,6 @@
 # VFO-10-KHz-160-MHz
 VFO 10 KHz to 160 MHz with Arduino Nano, Si 5351 and SSD1306
+You can see it in function at: https://www.youtube.com/watch?v=7KEPbQaxyXg
 
   I (Daniel Romila) simplified this program in order to use it as a simple, single OUTPUT VFO
   from 10 KHz to 160 MHz.

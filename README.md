@@ -11,4 +11,4 @@ You can see it in function at: https://www.youtube.com/watch?v=7KEPbQaxyXg
   A part of this program is taken from Jason Mildrum, NT7S.
   All extra functions are written by Rob Engberts PA0RWE
   
-  UPDAT Dec 15 2019: You should use directly the second version of the code, written by LA3PNA. It works from 1 MHz up.
+  UPDATE Dec 15 2019: You should use directly the second version of the code, written by LA3PNA. It works from 1 MHz up.
